@@ -1,0 +1,6 @@
+sourcemap.json
+Packages/
+**/*.rbxlx
+globalTypes.d.lua
+dist/
+.DS_Store
